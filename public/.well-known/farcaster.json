@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUyMzMzNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEMyRkRkYTIwODQ1MTFBMzI1OEUzYTM4OGU0NGM2NjJDMkI1MjM2ZWEifQ",
+    "payload": "eyJkb21haW4iOiJncm9rLmNvbSJ9",
+    "signature": "MHg2Y2FmZjAzOTI4YjIxNGQ2YWE4OWRlY2ZkZGM2NGRmNmM4ZjQwOWI2NGI0ZDJhYTliZjdlZDk3YjU3NGNiOTliMDUxYjI3YWNjYWRkNTA2YWUxODI1ZWJjMDk4NzcyODI3YjYzYTliMjc3YTJlNmM0OTg4NTM2NjhkNWQ3MmI5YjFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Blindfold App",
+    "iconUrl": "https://imgur.com/OFzMlfX.png",
+    "homeUrl": "https://http://mceal.github.io/BlindFoldApp/",
+    "imageUrl": "https://imgur.com/kmuBFwZ.png",
+    "splashImageUrl": "https://imgur.com/OFzMlfX.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "Add a blindfold to your images!",
+    "description": "A fun tool to overlay a blindfold on uploaded images with customizable positioning and size."
+  }
+}
