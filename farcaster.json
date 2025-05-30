@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJ...yourheader...",
+    "payload": "eyJ...yourpayload...",
+    "signature": "0x...yoursignature..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "Blindfold App",
+    "iconUrl": "https://imgur.com/kmuBFwZ.png",
+    "homeUrl": "https://mceal.github.io/BlindfoldApp",
+    "splashImageUrl": "https://imgur.com/OFzMlfX.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "Add a blindfold to your images!",
+    "description": "A fun tool to overlay a blindfold on uploaded images with customizable positioning and size."
+  }
+}
