@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUyMzMzNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEMyRkRkYTIwODQ1MTFBMzI1OEUzYTM4OGU0NGM2NjJDMkI1MjM2ZWEifQ",
+    "payload": "eyJkb21haW4iOiJibGluZGZvbGRhcHAucGFnZXMuZGV2In0",
+    "signature": "MHhlYjc5YjIzM2RlNDY5YzIxYjJhYTc5NmFkMjAyZWI4MDU0MWIwZDlmMDc5ZGM2NzA4MTU0N2UzOGRhYzFlYTJkNWU5ZWE3OGYxYThlYTkzNzhiMWVhM2M2Mjc4NjVhNTg1YWZjOTc2ZjFiNzM0ODY2NTEyNjM5OWE4OGI0MWYxZjFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://blindfoldapp.pages.dev/icon.png",
+    "homeUrl": "https://blindfoldapp.pages.dev",
+    "imageUrl": "https://blindfoldapp.pages.dev/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://blindfoldapp.pages.dev/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://blindfoldapp.pages.dev/api/webhook"
+  }
+}
