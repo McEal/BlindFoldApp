@@ -3,8 +3,7 @@
     "header": "eyJmaWQiOjUyMzMzNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEMyRkRkYTIwODQ1MTFBMzI1OEUzYTM4OGU0NGM2NjJDMkI1MjM2ZWEifQ",
     "payload": "eyJkb21haW4iOiJibGluZGZvbGQtMW1tLnBhZ2VzLmRldiJ9",
     "signature": "MHgwNGY5YWI1NDQzMzU5NDk3NWFhM2ZhMjExMTE3MmY0NDc1YjFmZTZkOGRhYmFlOTY3ODhlNTIwOGUzMzkwZWQ1N2M1MmE5YjVlMjE2MjhmMGU2NTQyNjdjOWJkZTc4M2ZlOGFiNmEyNTIzN2ZjY2IyYzEwZWE4ZGMyYzBjMmU5ZjFi"
-  }
-}
+  },
   "frame": {
     "version": "1",
     "name": "Example Frame",
